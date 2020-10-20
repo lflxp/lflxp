@@ -24,6 +24,7 @@
 - [x] [谷歌浏览器书签](https://github.com/CLDeveloping/chrome-bookmark)
 - [x] [WebTerminial](https://github.com/lflxp/lflxp-tty)
 - [x] [Mysql性能监控CLI](https://github.com/lflxp/lflxp-orzdba)
+- [x] [Gin接口模板](https://github.com/lflxp/gin-template)
 
 ## For DevOps
 
