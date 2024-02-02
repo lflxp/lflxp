@@ -21,10 +21,12 @@
 ## For Work
 
 - [x] [自运维工具](https://github.com/lflxp/showme)
+- [x] [智能命令提示工具](https://github.com/lflxp/smkubectl) 
 - [x] [谷歌浏览器书签](https://github.com/CLDeveloping/chrome-bookmark)
 - [x] [WebTerminial](https://github.com/lflxp/lflxp-tty)
 - [x] [Mysql性能监控CLI](https://github.com/lflxp/lflxp-orzdba)
 - [x] [Gin框架脚手架](https://github.com/lflxp/gin-template)
+- [x] [基于Go的Django框架](https://github.com/lflxp/djangolang)
 
 ## For DevOps
 
